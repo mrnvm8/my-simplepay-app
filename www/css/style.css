@@ -1,0 +1,47 @@
+.card {
+  margin-top: 45px;
+  max-width: 31vw;
+  height: 60vh;
+  margin-left: 50px;
+  font-size: 18px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.card .card-header {
+  padding: 20px;
+  text-align: start;
+  font-size: 10px;
+  background-color: #066182;
+  color: #fff;
+}
+
+.card-body input[type="submit"] {
+  background-color: #087ca7;
+  text-align: center;
+  justify-content: center;
+  border-color: #eee;
+  padding: 7px 200px 7px 180px;
+  margin-top: 95px;
+}
+
+.card-body label {
+  font-size: 15px;
+  color: #444;
+  margin-bottom: 10px;
+  text-align: start;
+}
+
+.card-body input[type="submit"]:hover {
+  background-color: #066182;
+}
+.card-footer {
+  display: block;
+}
+
+.container-fluid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
