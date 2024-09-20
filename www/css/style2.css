@@ -16,13 +16,12 @@
   color: #fff;
 }
 
-.card-body input[type="submit"] {
+.card-footer button {
   background-color: #087ca7;
   text-align: center;
   justify-content: center;
   border-color: #eee;
-  padding: 7px 200px 7px 180px;
-  margin-top: 95px;
+  padding: 7px 7px 7px 7px;
 }
 
 .card-footer {

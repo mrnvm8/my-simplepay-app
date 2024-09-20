@@ -1,7 +1,7 @@
 .card {
   margin-top: 45px;
   max-width: 31vw;
-  height: 60vh;
+  height: 57vh;
   margin-left: 50px;
   font-size: 18px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -23,7 +23,7 @@
   justify-content: center;
   border-color: #eee;
   padding: 7px 200px 7px 180px;
-  margin-top: 95px;
+  margin-top: 30px;
 }
 
 .card-body label {
@@ -38,6 +38,7 @@
 }
 .card-footer {
   display: block;
+  background-color: #fff;
 }
 
 .container-fluid {
